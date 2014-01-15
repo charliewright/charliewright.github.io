@@ -3,7 +3,7 @@ layout: page
 description: "Welcome"
 tags: [Charlie, Personal]
 image:
-  feature: trois.jpg
+  feature: trois.JPG
   credit: Charlie Wright
 ---
 
