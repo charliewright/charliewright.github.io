@@ -6,7 +6,7 @@ tagline: Student, Athlete, Competent Human
 tags: [about, Charlie, Wright, Student]
 modified: 9-9-2013
 image:
-  feature: whistler.jpg
+  feature: whistler.JPG
   credit: Charlie Wright
 ---
 
