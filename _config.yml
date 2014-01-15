@@ -1,19 +1,19 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Charlie Wright
+tagline:          Hacking and shredding
+description:      A blog to talk about projects and things happening in my life
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              charliewright.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Charlie Wright
+  avatar:         avatar.jpg
+  bio:            "McGill cs and econ undergrad, general enthusiast"
+  email:          charliewrightblog@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:   wrightcharlesh@gmail.com     
   facebook:       
-  github:         
+  github:         github.com/charliewright
   linkedin:       
   instagram:      
   lastfm:         
@@ -30,15 +30,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: about
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: blog
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

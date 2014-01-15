@@ -1,9 +1,10 @@
 ---
-layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: page
+description: "Welcome"
+tags: [Charlie, Personal]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: trois.jpg
+  credit: Charlie Wright
 ---
+
+Blah Blah blah
