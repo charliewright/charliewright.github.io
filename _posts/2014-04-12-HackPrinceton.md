@@ -9,11 +9,11 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I went to [HackPrinceton](http://hackprinceton.com) hackathon the weekend of March 28-30 at Princeton University. A hackahon is a all-night Computer Coding contest where you try and make something to impress judges, pad your resume and get street cred. I hit up Yale Hacks in Connecticutt in the fall and had limited success, but I learned a lot. I was inspired by the hacker culture, and was impressed by the people. These folks have a lot of passion, skills and are willing to share it with you. 
+I went to [HackPrinceton](http://hackprinceton.com) the weekend of March 28-30 at Princeton University. A hackahon is a all-night Computer Coding contest where you try and make something to impress judges, pad your resume and get street cred. I hit up Yale Hacks in Connecticutt in the fall and had limited success, but I learned a lot. I was inspired by the hacker culture, and was impressed by the people. These folks have a lot of passion, skills and are willing to share it with you. 
 
 <br>
 
-Since then, I have had a desire to improve. In the past months, I have upgraded my programming skills, and have immersed myself in the hacker world. I read hacker news, talk startups with my friends, listen to the Silicon Real podcast, and get my hands dirty with code at any opportunity. 
+Since then, I have had a desire to improve. In the past months, I have upgraded my programming skills, and have immersed myself in the hacker world. I read hacker news, talk startups with my friends, listen to the [Silicon Real](http://www.siliconreal.com) podcast, and get my hands dirty with code at any opportunity. 
 
 
 ###Back to the Hackathon
