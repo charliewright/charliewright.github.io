@@ -10,8 +10,6 @@ image:
   credit: Charlie Wright
 ---
 
-I am an undergraduate Computer Science and Economics student at McGill university. I am passionate about learning, solving problems and being a complete human being. 
+I recently graduated from McGill university in Montreal. This summer, I worked to save up money and then drove across the country. After a 10 day canoe trip in Northern BC, I hope to find full time work as a software developer. In the mean time, I am making friends and brushing up on my coding skills and working on projects.Drop me a line at wrightcharlesh@gmail.com.
 
-> "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."	
 
--Robert Heinlein, Time Enough for Love
