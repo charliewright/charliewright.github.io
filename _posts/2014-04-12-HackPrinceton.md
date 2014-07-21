@@ -3,10 +3,6 @@ layout: post
 title: HackPrinceton
 modified: 2014-04-12
 category: articles
-image:
-  feature: texture-feature-05.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 I went to [HackPrinceton](http://hackprinceton.com) the weekend of March 28-30 at Princeton University. A hackahon is a all-night Computer Coding contest where you try and make something to impress judges, pad your resume and get street cred. I hit up Yale Hacks in Connecticutt in the fall and had limited success, but I learned a lot. I was inspired by the hacker culture, and was impressed by the people. These folks have a lot of passion, skills and are willing to share it with you. 
