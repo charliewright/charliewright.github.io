@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Online Learning: Coursera, CodeSchool, Khanacademy
+title: Online Learning
 modified: 2014-08-25
 category: articles
+image:
+  feature: desk.jpg
+  credit: unsplash
+  creditlink: http://unsplash.com/
 ---
-
+  
 For the past few weeks I have been sending out cover letters and resumes, but I have had lots of spare time to read, code, lift weights and hit the beach. I remember reading that a personal blog should follow an 80/20 rule: only 20% of your blog should be about yourself, where the other 80% should be talking about ideas, products, and events youre not involved with. I figured I would write down my thoughts and experiences about online education tools Coursera, CodeSchool and KhanAcademy.
 
 ###Preface
