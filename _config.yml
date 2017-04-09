@@ -2,13 +2,13 @@ title:            Charlie Wright
 tagline:          Hacking and shredding
 description:      A blog to talk about projects and things happening in my life
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://charliewright.github.io
+# url:              http://charliewright.github.io
 
 # Owner/author information
 owner:
   name:           Charlie Wright
   avatar:         avatar.jpg
-  bio:            "Montreal | Ottawa"
+  bio:            "Vancouver | Minivan in ski hill parking lots | Montreal | Ottawa"
   email:          charliewrightblog@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        wrightcharlesh
@@ -40,7 +40,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter:    pygments
+highlighter:    rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
