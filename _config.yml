@@ -8,10 +8,10 @@ description:      A blog to talk about projects and things happening in my life
 owner:
   name:           Charlie Wright
   avatar:         avatar.jpg
-  bio:            "Vancouver | Minivan in ski hill parking lots | Montreal | Ottawa"
-  email:          charliewrightblog@gmail.com
+  bio:            "Smithers | Vancouver | Minivan"
+  email:          wrightcharlesh@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        wrightcharlesh
+  twitter:       
   facebook:       
   github:         charliewright
   linkedin:       
@@ -32,17 +32,20 @@ bing_verify:
 links:
   - title: about
     url: /about
-  - title: blog
-    url: /blog
+  # - title: blog
+  #   url: /blog
   - title: curriculum vitae
-    url: /charliewright_cv.pdf
+    url: /charliecv.html
+
+    # url: /charliewright_cv.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
 highlighter:    rouge
 markdown:    kramdown
-
+gems:
+  - jemoji
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink:   /:categories/:title
 
