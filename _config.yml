@@ -32,8 +32,8 @@ bing_verify:
 links:
   - title: about
     url: /about
-  # - title: blog
-  #   url: /blog
+  - title: blog
+    url: /blog
   - title: curriculum vitae
     url: /charliecv.html
 
