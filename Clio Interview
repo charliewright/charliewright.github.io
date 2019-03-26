@@ -1,0 +1,75 @@
+Clio Interview
+
+Why do you want to work at clio? 
+	-I know some old coworkers that work at clio, they recommend the professionalism, and the care and attention to detail people put into their job. a good team, culture, processes, high quality
+	-I read about the role, that you guys are planning a modernizing of the front end stack. That seems like it would be a good way to make an impact. 
+	-Cool product. People depend on it, so you can make a difference. 
+	-My dad is a lawyer, I have a bunch of law school friends
+	-There is a professionalism to working at an established company.
+
+Why did you leave vision critical:
+	-Timing was right: my dad retired, I had just wrapped up a project that I was proud of. I was grateful that VC took me on, but I was also excited to see what else is out there.
+
+Tell me about yourself!
+
+-I worked for the past 2 and a half years doing web/fullstack dev work at Vision Critical. I did a lot of browser stuff, making a complicated single-page web application. I also mentored co-ops and new hires, helped run events with the social committee + c-level execs.
+
+-Before that I studied at McGill university. I did a lot of data structures, algorithms, maths. I did a hackathons.
+
+Behavioural Questions
+
+Project 1: Maps, d3.js
+Project 2: Rich text editor!?
+Project 3: Porting over UI library from hosted, re-organizing the booting of the app, porting over all of the tests, and the framework.
+4: Proud when Ryan gave me a compliment, fixed a bug, wrote some tests, refactored. 
+
+Conflicts : Sometimes I disagreed with product management. I would offer up a better alternative to the idea they were trying to build.
+
+Most Challenging: Highlighter was fun. I had to make a new UI that interfaced with the legacy backend. Design something simple, that was readable, testable, high traffic. Can't have mistakes! 
+
+Hardest bug: Rich text editor. We had a front-end text editor. Think google docs, within our application. It was a shared component, and we wrote a bunch of code on top of the 3rd party application. Dealing with obscure browser tweaks, since each browser has a different html rendering engine. I learned a lot about markup, rules, hacks etc.
+
+Enjoyed Most: d3 mapping. I got to learn a new library (d3), and build something from scratch to solve a business need in a pretty way.
+
+
+*****BUSINESS VALUE ***** We had a legacy flash application. We built a HTML replacement. I was specifically responsible for several of the modules. I made a "highlighter" module, that had 10's of thousands of daily users.  We were under a hard deadline, already had tons of users so we had to deliver a project without bugs. It took images, allowed people to highlight, and generated a heatmap. 
+-browsers played nice, make it interactive to engage users
+
+-I was responsible for the google analytics tracking. I would track events, crunch the data to help make business decisions (should we rebuild this thing, does this feature even get used).
+
+
+******** Questions *********
+
+-
+
+-What does your team structure look like? 50 people on the engineering team? Who are the product owners?
+
+- Frontend team, self driven! Owners mindset, not a lot of policies. People 
+
+- People who are hired have shares. Lunch and town hall.
+
+- The customer conference in. Litigious in the united states. 
+
+partnerships with the bars!  development team can move quickly. 
+
+"strategic partnerships" 
+
+-> Emea, free software for university students. Some lawyers that use the product. Product team can use them. 
+-> Customer success team.
+-> a/b testing across users. so many customers. 
+
+-> Organizational psychology/business background. Most positive/negative impact for the business. Talent acquisition is a part of the role. 
+
+-What successful hires have you made? What does a successful employee look like
+
+-Performance! And continuous learning. Being human! 8 on the people operations team.
+
+-What are the most common challenges that people have when start a role, and how do they overcome them
+
+-On your website, I read that you guys are no longer "Software as a service", but "Platform as a service". There is obviously a lot of room for growth within the legal industry, if you are the platform on which they do business. How will you handle the growth, will you grow into a bigger company? Or do you anticipate that your systems will scale, and you can do the job with the team that you have assembled
+
+-What is the thing that spurred you guys to grow
+
+-Agile! 
+
+VC that is invested in SASS (shopify), round c of funding. Money in the bank though! In 5-6 years we go public.A good environment, lots of work to take on. Team structures, things change. Frontend devs are changing the structure
